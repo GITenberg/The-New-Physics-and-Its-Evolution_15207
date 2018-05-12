@@ -1,0 +1,33 @@
+_repo: The-New-Physics-and-Its-Evolution_15207
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Poincaré, Lucien
+    alias: Poincare, Lucien
+    birthdate: 1862
+    deathdate: 1920
+    gutenberg_agent_id: '5915'
+    url: http://www.gutenberg.org/2009/agents/5915
+    wikipedia: http://fr.wikipedia.org/wiki/Lucien_Poincar%C3%A9
+description: ''
+gutenberg_bookshelf: Physics
+gutenberg_issued: '2005-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15207'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QC'
+- !lcsh 'Physics'
+tableOfContents: The evolution of physics -- Measurements -- Principles -- The various
+  states of matter -- Solutions and electrolytic dissociation -- The ether -- Wireless
+  telegraphy -- The conductivity of gases and the ions -- Cathode rays and radioactive
+  bodies -- The ether and matter -- The future of physics.
+title: The New Physics and Its Evolution
+url: http://www.gutenberg.org/ebooks/15207
