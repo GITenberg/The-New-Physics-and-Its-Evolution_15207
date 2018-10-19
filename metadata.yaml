@@ -27,6 +27,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'QC'
 - !lcsh 'Physics'
+- GITenberg
 tableOfContents: The evolution of physics -- Measurements -- Principles -- The various
   states of matter -- Solutions and electrolytic dissociation -- The ether -- Wireless
   telegraphy -- The conductivity of gases and the ions -- Cathode rays and radioactive
